@@ -1,0 +1,6 @@
+dist/
+.sites-runtime/
+.DS_Store
+*.tar.gz
+.env*
+!.env.example
